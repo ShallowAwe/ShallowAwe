@@ -1,91 +1,113 @@
-# Hi there, I'm [Your Name] 👋
+# Hi, I’m Rudra 👋
 
 ## 🚀 About Me
 
-I'm a passionate [Your Role/Title] who loves [Your Interests]. Currently working on [Current Focus] and exploring [Technologies You're Learning].
+I’m a **Software Developer** focused on building **real applications**, not tutorial graveyards.
 
-- 🔭 I'm currently working on **[Current Project]**
-- 🌱 I'm currently learning **[Technologies/Skills]**
-- 👯 I'm looking to collaborate on **[Types of Projects]**
-- 💬 Ask me about **[Your Expertise Areas]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something Interesting About You]**
+My core work revolves around **Flutter for mobile**, **Spring Boot for backend systems**, and I’m currently expanding into **React.js** for modern web interfaces.
+
+I care about:
+- Clean architecture
+- Data flow clarity
+- Systems that actually scale beyond “it works on my machine”
+
+- 🔭 Currently working on **Flutter + Spring Boot full-stack applications**
+- 🌱 Currently learning **React.js, advanced state management, system design**
+- 👯 Open to collaborating on **mobile apps, backend APIs, civic-tech, and productivity tools**
+- 💬 Ask me about **Flutter, Spring Boot, REST APIs, authentication, app architecture**
+- 📫 Reach me at: **your.email@example.com**
+- ⚡ Fun fact: I prefer fixing broken systems over starting shiny new ones
+
+---
 
 ## 🛠️ Technologies & Tools
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+### Mobile
+![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+### Backend
+![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![](https://img.shields.io/badge/REST%20APIs-000000?style=flat&logo=fastapi&logoColor=white)
+
+### Frontend (Learning)
+![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+### Database & Tools
+![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
 
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
-## 📌 Pinned Projects
+---
 
-### [Project Name 1](https://github.com/yourusername/project1)
-Brief description of your awesome project and what it does.
+## 📌 Featured Projects
 
-### [Project Name 2](https://github.com/yourusername/project2)
-Brief description of your awesome project and what it does.
+### 📱 Notes Ledger
+**Flutter + Spring Boot**
+- Secure authentication (JWT)
+- User-specific notes
+- Clean separation of frontend and backend
 
-### [Project Name 3](https://github.com/yourusername/project3)
-Brief description of your awesome project and what it does.
+🔗 https://github.com/yourusername/Notes-Ledger
 
-## 📝 Latest Blog Posts
+---
 
-<!-- BLOG-POST-LIST:START -->
-- [Post Title 1](https://yourblog.com/post1)
-- [Post Title 2](https://yourblog.com/post2)
-- [Post Title 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
+### 🏛️ Complaint Registration System
+**Flutter | Spring Boot | Image Upload | Location Services**
+- Civic complaint registration
+- Image + metadata upload
+- Location-aware reporting
 
-## 🌐 Connect with Me
+🔗 https://github.com/yourusername/complaint-system
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+---
 
-## 💼 Work Experience
+### 📊 Real-Time Monitoring APIs
+**Spring Boot | WebSockets | SSE | Polling**
+- Compared real-time data delivery strategies
+- Built monitoring dashboards
+- Practical backend performance experiments
 
-**[Job Title]** @ [Company Name]  
-*[Duration]* | [Location]
-- Key achievement or responsibility
-- Key achievement or responsibility
+🔗 https://github.com/yourusername/realtime-monitoring
 
-**[Previous Job Title]** @ [Previous Company]  
-*[Duration]* | [Location]
-- Key achievement or responsibility
-- Key achievement or responsibility
+---
 
 ## 🎓 Education
 
-**[Degree]** in [Field of Study]  
+**Bachelor’s Degree** in [Your Field]  
 [University Name] | *[Year]*
 
-## 🏆 Achievements & Certifications
+---
 
-- 🥇 [Achievement/Certification 1]
-- 🥈 [Achievement/Certification 2]
-- 🥉 [Achievement/Certification 3]
+## 🏆 Certifications & Achievements
 
-## 📈 Contribution Graph
+- Built and shipped multiple production-grade apps
+- Hands-on experience with authentication, security, and data flow
+- Consistent open-source contributions
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 
-**⭐ From [yourusername](https://github.com/yourusername)**
+⭐ Built by **Rudra**
