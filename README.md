@@ -344,7 +344,7 @@ Check out my [portfolio](https://rudrankur-indurkar-dev.vercel.app/) for complet
 
 
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blueviolet?style=for-the-badge)](https://rudrankur-indurkar-dev.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blueviolet?style=for-the-badge)](https://rudraindurkar.vercel.app/)
 
 
 
