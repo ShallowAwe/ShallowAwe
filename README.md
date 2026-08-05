@@ -108,7 +108,7 @@ I am a professional Full-Stack Software Developer with 1+ years of industry expe
 <div align="center">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ShallowAwe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/ShallowAwe)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ShallowAwe&theme=tokyonight&hide_border=true)](https://github.com/ShallowAwe)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ShallowAwe&theme=tokyonight&hide_border=true&v=1)](https://github.com/ShallowAwe)
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ShallowAwe&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ShallowAwe)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShallowAwe&theme=tokyo-night&hide_border=true)](https://github.com/ShallowAwe)
 
