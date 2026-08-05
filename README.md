@@ -1,363 +1,126 @@
 <div align="center">
 
-
-
-# Hi there, I'm Rudra 👋
-
-
-
-### Software Developer | Building Real Solutions, Not Tutorial Collections
-
-
+# Rudrankur Indurkar 👋
+### Full-Stack Software Developer | Building Secure, Scalable, Offline-First Applications
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rudraindurkar.vercel.app/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudraindurkar01/)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudraindurkar670@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShallowAwe)
-
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShallowAwe&color=blueviolet&style=flat-square)
 
-
-
 </div>
 
-
-
 ---
-
-
 
 ## 🚀 About Me
 
+I am a professional Full-Stack Software Developer with 1+ years of industry experience specializing in **Java/Spring Boot** backend microservices and **React.js** frontend systems. I design and build highly secure, offline-first architectures, robust authentication frameworks (JWT, OAuth 2.0, RBAC), and production-grade applications that solve real-world problems.
 
-
-I'm a full-stack developer who believes in **shipping products that matter**. My stack centers around **Flutter** for mobile experiences, **Spring Boot** for robust backend systems, and I'm currently diving deep into **React.js** for modern web interfaces.
-
-
-
-**What drives me:**
-
-- Clean, maintainable architecture
-
-- Clear data flows and system boundaries
-
-- Solutions that scale beyond localhost
-
-- Fixing broken systems over chasing trends
-
-
-
-```yaml
-
-current_focus:
-
-  - Flutter + Spring Boot applications
-
-  - React.js & advanced state management
-
-  - System design patterns
-
-  - Real-world problem solving
-
-
-
-open_to:
-
-  - Mobile app collaborations
-
-  - Backend API projects
-
-  - Civic-tech initiatives
-
-  - Productivity tools
-
-
-
-ask_me_about:
-
-  - Flutter development
-
-  - Spring Boot architecture
-
-  - REST API design
-
-  - Authentication & security
-
-  - App architecture patterns
-
-```
-
-
-
-⚡ **Fun fact:** I get more satisfaction debugging legacy systems than starting greenfield projects
-
-
+*   **Current Role:** Full-Stack Software Developer at **AltWise Pvt Ltd**
+*   **Core Expertise:** Spring Boot microservices, React 18 & Redux Toolkit, Offline-First architecture (Dexie.js), Cloudflare R2 storage, Flutter mobile development.
+*   **Philosophy:** Clean architecture, predictable data flows, and shipping code that scales beyond localhost.
 
 ---
 
+## 💼 Professional Experience
 
-
-## 🛠️ Tech Stack
-
-
-
-<div align="center">
-
-
-
-### Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-
-
-### Backend Engineering
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-
-
-### Frontend (Expanding)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-
-### Database & Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-
-</div>
-
-
+### **Full-Stack Software Developer** | **AltWise Pvt Ltd** *(06/2025 – Present)*
+*   **Core Stack:** Spring Boot, React 18, Redux Toolkit, Dexie.js, Cloudflare R2, MySQL
+*   Designed and developed scalable Spring Boot microservices and responsive React interfaces for a multi-tenant Quality Management System (QMS) SaaS platform utilized by enterprise laboratory clients.
+*   Built automated audit trails and real-time compliance alerts, reducing manual audit preparation efforts by **50%+** for clients.
+*   Enforced JWT/OAuth 2.0 authentication and fine-grained RBAC to secure **16+ modules** (CAPA, NCR, Document Control, Risk Assessment).
+*   Executed an offline-first architecture using Dexie.js with automatic Cloudflare R2 synchronization, ensuring uninterrupted data entry in low-connectivity environments.
 
 ---
 
+## 🛠️ Technical Skills
 
+*   **Languages:** Java 21, JavaScript (ES6+), SQL, Dart, HTML5, CSS3
+*   **Backend Engineering:** Spring Boot, Spring Security, RESTful APIs, Microservices, JPA/Hibernate, Flyway
+*   **Frontend Development:** React 18, Redux Toolkit, Dexie.js, Tailwind CSS, Axios
+*   **Mobile Development:** Flutter, Dart
+*   **Databases:** MySQL, MSSQL, PostgreSQL, MongoDB
+*   **Security & Cloud:** JWT, OAuth 2.0, RBAC, BCrypt, Cloudflare R2, Cloudflare Workers
+*   **Tools & DevOps:** Git, CI/CD, Docker, Postman, Agile/Scrum
+
+---
+
+## 🏗️ Highlighted Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏛️ QMS Web</h3>
+      <strong>React 18 • Spring Boot • MSSQL • Cloudflare R2</strong>
+      <p><em>Proprietary SaaS / Closed Source</em></p>
+      <p>An ISO 15189-compliant Quality Management System platform spanning 16 enterprise modules:</p>
+      <ul>
+        <li>Enforced fine-grained RBAC via a custom <code>usePermissions</code> hook.</li>
+        <li>Implemented secure document storage via Cloudflare Workers + R2 with UUID file management.</li>
+        <li>Engineered offline-first architecture with Dexie.js and automatic cloud sync.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🎫 Session-Based Issue Tracker</h3>
+      <strong>Spring Boot • PostgreSQL • JWT • Flyway</strong>
+      <p><em>Personal Project</em></p>
+      <p>A secure team collaboration and issue-tracking backend system demonstrating production-grade security:</p>
+      <ul>
+        <li>Implemented JWT authentication with refresh-token rotation and reuse detection.</li>
+        <li>Architected hierarchical RBAC and normalized relational schemas across 8 database tables.</li>
+        <li>Built-in soft deletes and audit logging.</li>
+      </ul>
+      <a href="https://github.com/ShallowAwe">🔗 View GitHub Profile</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📱 Notes Ledger</h3>
+      <strong>Flutter • Spring Boot • JWT Auth</strong>
+      <p><em>Personal Project</em></p>
+      <p>A secure, production-ready mobile notes ledger application demonstrating frontend/backend separation:</p>
+      <ul>
+        <li>Robust JWT authentication and user-specific data isolation.</li>
+        <li>Clean API boundaries and offline state management.</li>
+      </ul>
+      <a href="https://github.com/ShallowAwe/Notes-Ledger">🔗 View Repository</a>
+    </td>
+    <td width="50%">
+      <h3>📢 Civic Complaint System</h3>
+      <strong>Flutter • Spring Boot • Location Services</strong>
+      <p><em>Personal Project</em></p>
+      <p>Location-aware complaint registration and civic engagement platform featuring:</p>
+      <ul>
+        <li>GPS-based incident reporting and dynamic map integration.</li>
+        <li>Secure image uploads with geo-metadata.</li>
+        <li>Scalable notification system and backend APIs.</li>
+      </ul>
+      <a href="https://github.com/ShallowAwe/complaint-system">🔗 View Repository</a>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 📊 GitHub Analytics
 
-
-
 <div align="center">
 
-  
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShallowAwe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/ShallowAwe)
-
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShallowAwe&theme=tokyonight&hide_border=true)](https://github.com/ShallowAwe)
-
-
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShallowAwe&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ShallowAwe)
-
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShallowAwe&theme=tokyo-night&hide_border=true)](https://github.com/ShallowAwe)
 
 </div>
 
-
-
 ---
-
-
-
-## 🏗️ Featured Projects
-
-
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-
-
-### 📱 Notes Ledger
-
-**Flutter • Spring Boot • JWT Auth**
-
-
-
-A secure, production-ready notes application demonstrating:
-
-- Robust JWT authentication
-
-- User-specific data isolation
-
-- Clean frontend/backend separation
-
-- RESTful API design
-
-
-
-[🔗 View Repository](https://github.com/ShallowAwe/Notes-Ledger)
-
-
-
-</td>
-
-<td width="50%">
-
-
-
-### 🏛️ Civic Complaint System
-
-**Flutter • Spring Boot • Location Services**
-
-
-
-Location-aware complaint registration platform featuring:
-
-- Image upload with metadata
-
-- GPS-based incident reporting
-
-- Real-world civic engagement
-
-- Scalable backend architecture
-
-
-
-[🔗 View Repository](https://github.com/ShallowAwe/complaint-system)
-
-
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-
-
-### 📊 Real-Time Monitoring APIs
-
-**Spring Boot • WebSockets • SSE**
-
-
-
-Comparative study of real-time data delivery:
-
-- WebSocket implementation
-
-- Server-Sent Events (SSE)
-
-- Polling strategies
-
-- Performance benchmarking
-
-
-
-[🔗 View Repository](https://github.com/ShallowAwe/realtime-monitoring)
-
-
-
-</td>
-
-<td width="50%">
-
-
-
-### 💼 More Projects
-
-Check out my [portfolio](https://rudrankur-indurkar-dev.vercel.app/) for complete project showcase and live demos!
-
-
-
-</td>
-
-</tr>
-
-</table>
-
-
-
----
-
-
-
-## 📈 Contribution Graph
-
-
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShallowAwe&theme=tokyo-night&hide_border=true)](https://github.com/ShallowAwe)
-
-
-
----
-
-
-
-## 🏆 Achievements
-
-
-
-- ✅ Multiple production-grade applications deployed
-
-- 🔐 Hands-on experience with authentication & security patterns
-
-- 🏗️ Built scalable backend systems from scratch
-
-- 📱 Shipped cross-platform mobile applications
-
-- 🤝 Active contributor to open-source projects
-
-
-
----
-
-
 
 <div align="center">
 
-
-
 ### 💬 Let's Connect!
-
-
-
-**Open for collaborations, discussions, and opportunities**
-
-
+**Always open to technical discussions, collaborations, and engineering opportunities.**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blueviolet?style=for-the-badge)](https://rudraindurkar.vercel.app/)
-
-
-
----
-
-
-
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-
-
-⭐ **From [ShallowAwe](https://github.com/ShallowAwe)**
-
-
 
 </div>
